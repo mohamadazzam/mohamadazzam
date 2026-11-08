@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1200&color=00599C&center=true&vCenter=true&width=700&lines=Aerospace+Engineer;Multi-Fluid+CFD+%26+Solver+Development;Aerothermodynamics+%2F+MHD+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1200&color=00599C&center=true&vCenter=true&width=700&lines=Aerospace+Engineer;Aerothermodynamics+%2F+MHD+Research" alt="Typing SVG" />
 
   <p><sub><b>Numerical methods for high-speed, non-equilibrium, and plasma flows</b></sub></p>
 
@@ -14,10 +14,6 @@
 Aerospace Engineer with a B.S. in Aerospace Engineering (100% English-medium instruction, Türkiye) and 5+ completed internships across the aerospace sector. My work centers on developing and validating numerical solvers for multi-fluid, high-speed, and plasma-coupled flows — combining formal CFD methods with a hands-on electrical/electronics background for experimental plasma diagnostics.
 
 **Currently seeking:** a funded M.S. / Graduate Research Assistantship (Fall 2027) in computational aerothermodynamics, multi-fluid CFD, or aerospace magnetohydrodynamics.
-
-> [!NOTE]
-> **Undergraduate Thesis — Development of an Axisymmetric FVM Solver for Hypersonic Flows: Quantifying the Divergence of Thermophysical Models**
-> Grade: AA · First undergraduate thesis in the department's history selected for hard-copy archival in the university library.
 
 ---
 

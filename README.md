@@ -19,7 +19,7 @@ Aerospace Engineer with a B.S. in Aerospace Engineering (100% English-medium ins
 
 ## Research Focus
 
-| | |
+| | | 
 |---|---|
 | **Computational Fluid Dynamics** | Multi-fluid Euler/Navier–Stokes solver development, Riemann solvers (Roe, HLLC, HLLD), high-order schemes (TVD, WENO) |
 | **Aerothermodynamics & MHD** | Hypersonic/high-speed flows, real-gas and thermochemical non-equilibrium effects, flow control, aerospace plasma interactions |
